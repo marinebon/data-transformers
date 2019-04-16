@@ -14,7 +14,9 @@ Here are a few examples from OBIS-USA for taking data from the original format t
 can be found at:
 
 occurrence- https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Occurrence#Occurrence
+
 event- https://tools.gbif.org/dwca-validator/extension.do?id=dwc:event
+
 measurement or fact - https://tools.gbif.org/dwca-validator/extension.do?id=dwc:measurementorfact
 
 OBIS-USA examples are stored in ScienceBase and include the data in its original format, the R script used for transforming
