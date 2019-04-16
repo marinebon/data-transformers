@@ -12,6 +12,7 @@ transformations and help reduce the burden on data providers in transforming the
 ## Examples
 Here are a few examples from OBIS-USA for taking data from the original format to Darwin Core. Darwin Core term definitions
 can be found at:
+
 occurrence- https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Occurrence#Occurrence
 event- https://tools.gbif.org/dwca-validator/extension.do?id=dwc:event
 measurement or fact - https://tools.gbif.org/dwca-validator/extension.do?id=dwc:measurementorfact
@@ -26,3 +27,4 @@ Example 2 - NOAA Florida Keys Reef Visual Census - original to Darwin Core Event
 https://www.sciencebase.gov/catalog/item/57fe99a9e4b0824b2d14e2f2
 
 Example 3 - USGS Great Lakes Science Center Trawl - original to Darwin Core Event Core with Extended Measurement or Fact
+https://www.sciencebase.gov/catalog/item/5914eb0ae4b01a342e68ecdb
